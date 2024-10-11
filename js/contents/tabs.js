@@ -5,7 +5,6 @@ const TABS = {
     },
     1: [
         { id: "Replicanti" },
-        { id: "Replicanti Energy" },
         { id: "Options" },
         { id: "Statistics" },
         { id: "Achievements" },
